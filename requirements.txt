@@ -1,0 +1,7 @@
+google-generativeai
+google-genai
+langgraph
+langchain-google-genai
+streamlit
+python-dotenv
+reportlab
